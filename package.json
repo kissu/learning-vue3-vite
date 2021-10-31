@@ -9,6 +9,8 @@
   "dependencies": {
     "vue": "^3.2.16",
     "vuelidate": "^0.7.6"
+    "vee-validate": "^3.4.13",
+    "axios": "^0.24.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",
